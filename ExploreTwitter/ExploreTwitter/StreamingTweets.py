@@ -1,10 +1,10 @@
 import tweepy
 
 '''
-//Consumer Key : 3iiwvPHx3JMHtG8IldATevUgA
-//Secret Key : WjVrQLgwxGjMhU7Mq0baS0qSzZqYcdRPX0gpq6mYzmhChB6oFG
-//Access Token :119032408-2YuZzfjvke2VMeyWYjrwEPeJ0kVP484dhI2ZW6u1
-//Access Secret Token : mtjwGYUrOhlfQRRWFjsJgrwKmypeAo28GYYxAKCWUs2QP
+//Consumer Key : <3iiwvPHx3JMHtG8IldATevUgA>
+//Secret Key : <WjVrQLgwxGjMhU7Mq0baS0qSzZqYcdRPX0gpq6mYzmhChB6oFG>
+//Access Token :<119032408-2YuZzfjvke2VMeyWYjrwEPeJ0kVP484dhI2ZW6u1>
+//Access Secret Token : <mtjwGYUrOhlfQRRWFjsJgrwKmypeAo28GYYxAKCWUs2QP>
 '''
 
 auth = tweepy.OAuthHandler('3iiwvPHx3JMHtG8IldATevUgA', 'WjVrQLgwxGjMhU7Mq0baS0qSzZqYcdRPX0gpq6mYzmhChB6oFG')
